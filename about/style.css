@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Source+Sans+Pro');
+
+body{
+    background-color:#f2f2f2;
+    margin:0;
+}
+.header{
+    background-color:#f2f2f2;
+    color:#FFFFFF;
+    height:130px;
+}
+.nav{
+    max-width:950px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.logo{
+    margin-top:28px;
+    font-size:4rem;
+    float:left;
+}
+.name{
+    margin-top:55px;
+    margin-left:20px;
+    font-size:1rem;
+    float:left;
+}
+.links{
+    margin-top:55px;
+    font-size:1rem;
+    float:right;
+    color:#4B4E61;
+}
+.links a{
+    color:white;
+    text-decoration:none;
+    margin-left:10px;
+    margin-right:10px;
+}
+.links span:hover{
+    color:#a54223;
+}
+.blue{
+    color:#1b5374;
+}
+.rust{
+    color:#a54223;
+}
+.banner img{
+    width:100%;
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container{
+    width:960px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.about{
+    height:auto;
+    width:100%;
+    margin-top:50px;
+}
+.aboutjos{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.launch{
+    width:100%;
+    font-size:1.2rem;
+}
+.aboutdavid{
+    width:100%;
+    margin-top:50px;
+}
+.david{
+    width:300px;
+    float:left;
+}
+.david img{
+    width:100%;
+}
+.davidmcnearney{
+    width:620px;
+    float:left;
+    padding-left:20px;
+    padding-right:20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.loremipsum{
+    height:auto;
+    width:100%;
+    margin-bottom:100px;
+}
+
+
+footer{
+    background-color:#1b5374;
+    height:250px;
+}
+.footerquote{
+    color:white;
+    padding-top:88px;
+    padding-bottom:88px;
+    padding-right:50px;
+    padding-left:100px;
+    float:left;
+}
+.footercontactinfo{
+    color:white;
+    padding-top:40px;
+    padding-bottom:40px;
+    padding-left:50px;
+    padding-right:100px;
+    float:right;
+}
+
+
+
